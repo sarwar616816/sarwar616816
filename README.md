@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sarwar616816
 - 👀 I’m interested in latest technologies.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Life is not so easy.
+- ⚡ Fun fact: Life hurts.
 
 <!---
 sarwar616816/sarwar616816 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
